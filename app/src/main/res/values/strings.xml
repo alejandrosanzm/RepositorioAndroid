@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RepositorioAndroid</string>
+    <string name="Film_title" />
+    <string name="film_image">Film image</string>
+    <string name="original_title">Original_title</string>
+    <string name="fecha_de_lanzamiento">Fecha de lanzamiento:</string>
+    <string name="note">Note</string>
+    <string name="film_title">Film title</string>
 </resources>
